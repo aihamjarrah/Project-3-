@@ -1,0 +1,115 @@
+body {
+    background-image: url(ST_ZoomBackground_Beach02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    word-wrap: break-word;
+}
+.firstp {
+    font-size: 18px;
+    font-style: oblique;
+    font-weight: bolder;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: black
+}
+#firstparagraph {
+    opacity: 1;
+    margin-right: 200px;
+    margin-left: 200px;
+    background-color: blanchedalmond;
+    border: 5px solid aliceblue;
+}
+
+
+
+#title {
+   
+    background-color: blanchedalmond;
+    font-size: 50px;
+    border: 5px solid aliceblue;
+    padding-left: 10px;
+
+}
+#first_div {
+    
+    
+    margin-right: 600px;
+    margin-left: 600px;
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    
+}
+#second_div {
+    border: 5px solid aliceblue;
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: blanchedalmond;
+    
+    word-wrap: break-word;
+}
+h2 {
+    font-size: 40px;
+    margin-left: 550px;
+    color: ghostwhite;
+    font-family: fantasy;
+}
+#card1 {
+    border: 1px solid #ccc;
+    width: 300px;
+    height: 250px;
+    
+    margin-left: 100px;
+}
+#card1:hover {
+    
+    
+    border: 2px solid #777;
+}
+div.desc {
+    font-size: 31px;
+    margin-left: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+#card2 {
+    border: 1px solid #ccc;
+    width: 300px;
+    height: 250px;
+    margin-left: 600px;
+    margin-top: -250px;
+}
+#card2:hover {
+    border: 2px solid #777;
+}
+div.desc2 {
+    font-size: 31px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 100px;
+    color: goldenrod;
+}
+#card3 {
+    border: 1px solid #ccc;
+    width: 300px;
+    height: auto;
+    margin-left: 1100px;
+    margin-top: -250px;
+    
+
+}
+#card3:hover {
+    border: 1px solid #777;
+}
+div.desc3 {
+    font-size: 31px;
+    font-family: monospace;
+    color: black;
+}
+.img {
+    width: 300px;
+    height: auto;
+}
